@@ -1,0 +1,17 @@
+body{
+	background-color: gray;
+	font-family: 'Lora', serif;
+
+}
+li{
+	font-size: 1.2em;
+	border-bottom: 1px solid gray;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	font-weight: 600;
+}
+.bloco{
+	height: 1000px;
+	width: 90%;
+	margin-left:5%;
+}
